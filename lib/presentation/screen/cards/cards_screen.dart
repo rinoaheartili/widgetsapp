@@ -169,7 +169,7 @@ class _CardType3 extends StatelessWidget
     final colors = Theme.of(context).colorScheme;
     return Card
     (
-      color: colors.surfaceVariant,
+      color: colors.surfaceContainerHighest,
       elevation: elevation,
       child: Padding(
         padding: const EdgeInsets.fromLTRB(10, 5, 10, 10),
@@ -206,7 +206,6 @@ class _CardType4 extends StatelessWidget
   @override
   Widget build(BuildContext context) 
   {
-    final colors = Theme.of(context).colorScheme;
     return Card
     (
       clipBehavior: Clip.hardEdge,

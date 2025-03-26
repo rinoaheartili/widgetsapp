@@ -76,8 +76,8 @@ class _ButtonsView extends StatelessWidget
               onPressed: (){},
               icon: const Icon(Icons.app_registration_rounded),
               style: ButtonStyle(
-                backgroundColor: MaterialStatePropertyAll(colors.primary),
-                iconColor: MaterialStatePropertyAll(Colors.white),
+                backgroundColor: WidgetStatePropertyAll(colors.primary),
+                iconColor: WidgetStatePropertyAll(Colors.white),
               )
             ),
 

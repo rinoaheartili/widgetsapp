@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:widgetsapp/config/menu/menu_items.dart';
-import 'package:widgetsapp/presentation/screen/cards/cards_screen.dart';
 
 class HomeScreen extends StatelessWidget
 {
