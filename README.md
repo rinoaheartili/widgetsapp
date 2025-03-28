@@ -46,8 +46,15 @@ This section is essential for any Flutter application. We'll learn things like:
  - Tiles
  - Lists
  - Pageviews
+ - Drawers" side menu
+ - Riverpod Status Manager
  - And much more
 
 This section will help us understand more about building apps in Flutter.
 
 The goal is to lay the necessary foundation to begin working in the next sections with a series of widgets and thus better understand how to build our applications.
+
+By the end of this section, we'll understand why Riverpod is so popular, why it's considered the spiritual successor to Provider, and we'll also have used several Riverpod Providers to manage our app.
+
+Bonus: We'll also cover how to tell if your device has a notch or hidden space on the screen and avoid placing content there.
+
